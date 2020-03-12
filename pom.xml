@@ -5,6 +5,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>0100-helloworld</module>
+        <module>0200-schedule</module>
     </modules>
 
 

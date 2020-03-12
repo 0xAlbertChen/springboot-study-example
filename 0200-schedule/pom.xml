@@ -11,9 +11,9 @@
 
 
     <groupId>com.example</groupId>
-    <artifactId>0100-helloworld</artifactId>
+    <artifactId>0200-schedule</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>0100-helloworld</name>
+    <name>0200-schedule</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
